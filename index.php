@@ -1,0 +1,2 @@
+<?
+die("Permission denied");
